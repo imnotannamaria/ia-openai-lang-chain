@@ -1,4 +1,6 @@
-# OpenAI(Azure) Chat build with lang-chain(node)
+# AI OpenAI(Azure) Chat  build with lang-chain(node)
+
+The AI aims to help with information about training, gym and muscle groups.
 
 Project created by me using technologies such as:
 - TypeScript

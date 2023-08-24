@@ -39,7 +39,7 @@ async function main() {
   await redis.connect()
 
   const response = await chain.call({
-    query: "Qual exercício eu devo fazer para melhorar o Deltoides anterior do meu onbro?"
+    query: "Qual exercício eu devo fazer para melhorar o Deltoides anterior do meu ombro?"
   })
 
   console.log(response)
